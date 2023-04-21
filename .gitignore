@@ -1,0 +1,59 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Smart Calculator (Java)/*
+!/Smart Calculator (Java)/task/
+/Smart Calculator (Java)/task/*
+!/Smart Calculator (Java)/task/src
+
+# Project exclude paths
+/Topics/Patterns and Matcher/E-mail address/out/
+/Topics/Patterns and Matcher/E-mail address/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Theory/out/
+/Topics/Patterns and Matcher/Theory/out/production/classes/
+/Topics/Patterns and Matcher/Why use Pattern and Matcher/out/
+/Topics/Patterns and Matcher/Why use Pattern and Matcher/out/production/classes/
+/Topics/Regexes in programs/Check IP address/out/
+/Topics/Regexes in programs/Check IP address/out/production/classes/
+/Topics/Regexes in programs/Check the clock time/out/
+/Topics/Regexes in programs/Check the clock time/out/production/classes/
+/Topics/Regexes in programs/Check the date/out/
+/Topics/Regexes in programs/Check the date/out/production/classes/
+/Topics/Regexes in programs/Ignoring spaces/out/
+/Topics/Regexes in programs/Ignoring spaces/out/production/classes/
+/Topics/Regexes in programs/Theory/out/
+/Topics/Regexes in programs/Theory/out/production/classes/
+/Topics/Replacing characters/Check the essay/out/
+/Topics/Replacing characters/Check the essay/out/production/classes/
+/Topics/Replacing characters/Methods of a string/out/
+/Topics/Replacing characters/Methods of a string/out/production/classes/
+/Topics/Replacing characters/Methods of Matcher/out/
+/Topics/Replacing characters/Methods of Matcher/out/production/classes/
+/Topics/Replacing characters/Remove extra spaces/out/
+/Topics/Replacing characters/Remove extra spaces/out/production/classes/
+/Topics/Replacing characters/Remove HTML tags/out/
+/Topics/Replacing characters/Remove HTML tags/out/production/classes/
+/Topics/Replacing characters/Theory/out/
+/Topics/Replacing characters/Theory/out/production/classes/
+/Topics/Replacing characters/What is the result/out/
+/Topics/Replacing characters/What is the result/out/production/classes/
+/Topics/Stack/Html Parser/out/
+/Topics/Stack/Html Parser/out/production/classes/
+/Topics/Stack/The LIFO principle in action/out/
+/Topics/Stack/The LIFO principle in action/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
